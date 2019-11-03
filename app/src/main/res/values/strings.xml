@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProductStore</string>
+    <string name="empty_products">No products to display</string>
+    <string name="product_detailed_screen_title">Product Details</string>
+    <string name="product_list_screen_title">Products</string>
+    <string name="product_detailed_image">Detailed product image</string>
+    <string name="product_image">Product image</string>
+</resources>
